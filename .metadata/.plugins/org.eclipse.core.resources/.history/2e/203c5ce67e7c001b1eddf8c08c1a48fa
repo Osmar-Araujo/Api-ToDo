@@ -1,0 +1,5 @@
+package io.github.curso.todo.rest;
+
+public class TodoController {
+
+}
